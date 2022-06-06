@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Hello</item>
+        <item>World</item>
+        <item>What</item>
+        <item>Where</item>
+        <item>Bird</item>
+        <item>House</item>
+    </string-array>
+</resources>
